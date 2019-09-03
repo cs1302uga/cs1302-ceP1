@@ -8,10 +8,42 @@ on your project and ask questions to the instructional staff.
 ### Getting Started
 
 1. You may form groups for the purposes of filling out a **Class Exercise Checkpoint Slip** (slip),
-   however, **you must work on your project individually** per the policies in the syllabus. 
+   however, please keep the following in mind:
+   
+   1. **You must work on your project individually** per the policies in the syllabus. 
+   
+      ```
+                           _                                
+                          | |                               
+       __      _____  _ __| | __                            
+       \ \ /\ / / _ \| '__| |/ /                            
+        \ V  V / (_) | |  |   <                             
+        _\_/\_/ \___/|_|  |_|\_\    _             _ _       
+       (_)         | (_)     (_)   | |           | | |      
+        _ _ __   __| |___   ___  __| |_   _  __ _| | |_   _ 
+       | | '_ \ / _` | \ \ / / |/ _` | | | |/ _` | | | | | |
+       | | | | | (_| | |\ V /| | (_| | |_| | (_| | | | |_| |
+       |_|_| |_|\__,_|_| \_/ |_|\__,_|\__,_|\__,_|_|_|\__, |
+                                                       __/ |
+                                                      |___/ 
+      ```
    
    * If you leave early, then you must cross out your name on your slip. 
      **No exceptions for any reason.**
+     
+     ```
+           _                           
+          | |                          
+       ___| |_ __ _ _   _              
+      / __| __/ _` | | | |             
+      \__ \ || (_| | |_| |             
+      |___/\__\__,_|\__, |         _   
+      | |            __/ |        | |  
+      | |__   ___  _|___/ ___  ___| |_ 
+      | '_ \ / _ \| '_ \ / _ \/ __| __|
+      | | | | (_) | | | |  __/\__ \ |_ 
+      |_| |_|\___/|_| |_|\___||___/\__|                                                               
+     ```
    
    * No checkpoint signatures will be given for this exerise, however, slips will be collected
      at the end of class. Furthermore, **slips will only be accepted at the end of class.**
