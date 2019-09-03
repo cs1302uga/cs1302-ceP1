@@ -47,6 +47,20 @@ on your project and ask questions to the instructional staff.
    
    * No checkpoint signatures will be given for this exerise, however, slips will be collected
      at the end of class. Furthermore, **slips will only be accepted at the end of class.**
+     
+     ```
+       _                      _             _ _                                
+      | |                    (_)           | (_)                               
+      | |_ _   _ _ __ _ __    _ _ __    ___| |_ _ __                           
+      | __| | | | '__| '_ \  | | '_ \  / __| | | '_ \                          
+      | |_| |_| | |  | | | | | | | | | \__ \ | | |_) |                         
+       \__|\__,_|_|  |_| |_| |_|_| |_| |___/_|_| .__/                    _     
+               | |                     | |     | |                      | |    
+      __      _| |__   ___ _ __     ___| | __ _|_|_ ___    ___ _ __   __| |___ 
+      \ \ /\ / / '_ \ / _ \ '_ \   / __| |/ _` / __/ __|  / _ \ '_ \ / _` / __|
+       \ V  V /| | | |  __/ | | | | (__| | (_| \__ \__ \ |  __/ | | | (_| \__ \
+        \_/\_/ |_| |_|\___|_| |_|  \___|_|\__,_|___/___/  \___|_| |_|\__,_|___/                                                                               
+     ```
       
 **NOT A CHECKPOINT: TURN SLIP IN AT END OF CLASS**
     
